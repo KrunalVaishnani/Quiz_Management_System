@@ -1,0 +1,108 @@
+﻿@model DashboardModel
+
+    <div class="container">
+
+        <div class="pagetitle">
+            <h1>Dashboard Statistics</h1>
+            <nav>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">Admin</a></li>
+                    <li class="breadcrumb-item active">Dashboard</li>
+                </ol>
+            </nav>
+        </div><!-- End Page Title -->
+        <!-- Counts Section -->
+        <div class="row mb-4">
+            <!-- Quick Links Section -->
+           
+            <div class="d-flex justify-content-evenly">
+                <div class="card m-1 w-25">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Quizes</h5><hr />
+                        <p class="card-text">@Model.Counts.FirstOrDefault(c => c.Metric == "TotalQuizes")?.Value</p>
+                    </div>
+                </div>
+
+                <div class="card m-1 w-25">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Questions</h5><hr />
+                        <p class="card-text">@Model.Counts.FirstOrDefault(c => c.Metric == "TotalQuestions")?.Value</p>
+                    </div>
+                </div>
+
+               
+                <div class="card m-1 w-25">
+                    <div class="card-body">
+                        <h5 class="card-title">Total Question Levels</h5><hr />
+                        <p class="card-text">@Model.Counts.FirstOrDefault(c => c.Metric == "TotalQuestionLevels")?.Value</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <!-- Recent Orders Section -->
+        <div class="container col-6">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h4 class="card-title">Recent 10 Quizes</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Quiz ID</th>
+                                <th>Quiz Name</th>
+                                <th>Total Questions</th>
+                                <th>Quiz Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var quiz in Model.RecentQuizes)
+                            {
+                                <tr>
+                                    <td>@quiz.QuizID</td>
+                                    <td>@quiz.QuizName</td>
+                                    <td>@quiz.TotalQuestions</td>
+                                    <td>@quiz.QuizDate.ToString("yyyy-MM-dd")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="container col-6">
+            <!-- Recent Questions Section -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h4 class="card-title">Recent 10 Questions</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Question ID</th>
+                                <th>Question</th>
+                                <th>Question Marks</th>
+                                <th>Correct Option</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var question in Model.RecentQuestions)
+                            {
+                                <tr>
+                                    <td>@question.QuestionID</td>
+                                    <td>@question.QuestionText</td>
+                                    <td>@question.QuestionMarks</td>
+                                    <td>@question.CorrectOption</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+    </div>

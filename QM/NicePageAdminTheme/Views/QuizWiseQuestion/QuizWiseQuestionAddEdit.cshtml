@@ -1,0 +1,136 @@
+﻿@model QuizWiseQuestionModel
+
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-header m-3">
+            <div class="row">
+                <div class="col-12">
+                    @if (Model.QuizWiseQuestionsID > 0)
+                    {
+                        <h3>Update Quiz Wise Question</h3>
+                    }
+                    else
+                    {
+                        <h3>Add Quiz Wise Question</h3>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="card-body m-3">
+            <form asp-action="QuizWiseQuestionSave" method="post">
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div asp-validation-summary="All" class="alert alert-danger" role="alert"></div>
+                }
+
+                <input type="hidden" asp-for="QuizWiseQuestionsID" />
+
+                @* <div class="row mb-3">
+                    <label class="col-sm-2 col-form-label">User</label>
+                    <div class="col-sm-10">
+                        <select asp-for="UserID" class="form-control" asp-items="@(new SelectList(Model.UserList, "UserID", "UserName"))"></select>
+                    </div>
+                </div> *@
+
+                <div class="row mb-3">
+                    <label class="col-sm-2 col-form-label">Quiz</label>
+                    <div class="col-sm-10">
+                        <select asp-for="QuizID" class="form-control" asp-items="@(new SelectList(Model.QuizList, "QuizID", "QuizName"))"></select>
+                    </div>
+                </div>
+
+
+                @if (Model.QuizWiseQuestionsID > 0)
+                {
+                     <div class="row mb-3">
+                         <label class="col-sm-2 col-form-label">Question</label>
+                         <div class="col-sm-10">
+                            <select asp-for="QuestionID" class="form-control" asp-items="@(new SelectList(Model.QuestionList, "QuestionID", "QuestionText"))"></select>
+                         </div>
+                     </div> 
+                }
+                else
+                {
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col"><input type="checkbox" id="selectAll" class="form-check-input" onclick="toggleSelectAll(this)"></th>
+                                <th scope="col">Question</th>
+                                <th>Option A</th>
+                                <th>Option B</th>
+                                <th>Option C</th>
+                                <th>Option D</th>
+                                <th>Answer</th>
+                                <th>Marks</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (int i = 0; i < Model.QuestionList.Count; i++)
+                            {
+                                <tr>
+                                    <td>
+                                        <input type="checkbox" id="question-@Model.QuestionList[i].QuestionID"
+                                               name="SelectedQuestions" value="@Model.QuestionList[i].QuestionID"
+                                               class="form-check-input question-checkbox">
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].QuestionText</label>
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].OptionA</label>
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].OptionB</label>
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].OptionC</label>
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].OptionD</label>
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].CorrectOption</label>
+                                    </td>
+                                    <td>
+                                        <label for="question-@Model.QuestionList[i].QuestionID"
+                                               class="form-check-label">@Model.QuestionList[i].QuestionMarks</label>
+                                    </td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                
+                <div class="row ">
+                    <div class="mt-5 d-flex justify-content-center">
+                        <button type="submit" class="btn btn-primary me-4">Save</button>
+                        <a asp-action="QuizWiseQuestionList" class="btn btn-secondary">Back</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        function toggleSelectAll(selectAllCheckbox) {
+            const checkboxes = document.querySelectorAll('.question-checkbox');
+            checkboxes.forEach(cb => cb.checked = selectAllCheckbox.checked);
+        }
+    </script>
+
+}

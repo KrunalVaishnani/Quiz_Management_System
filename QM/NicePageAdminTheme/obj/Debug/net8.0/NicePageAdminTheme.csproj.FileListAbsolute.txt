@@ -1,0 +1,1230 @@
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.endpoints.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\Programer\BTech\Sem-4\.NET\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.net TA\-QM\NicePageAdminTheme\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.endpoints.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+C:\Users\divyesh999\Desktop\QM\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\.net TA\-QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\Dot Net Sem-4 (TA)\Quiz Management System\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.endpoints.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.sourcelink.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\Pinal_College\TA_DotNetCoreMVC\QM\QM\QM\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\.net TA\Quiz Management System\QM_Zip\QM\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.Development.json
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\appsettings.json
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\libman.json
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.runtime.json
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.exe
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.deps.json
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.runtimeconfig.json
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Core.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Azure.Identity.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Humanizer.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.ClientModel.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.CodeDom.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Text.Json.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.AssemblyReference.cache
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfoInputs.cache
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.AssemblyInfo.cs
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.csproj.CoreCompileInputs.cache
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.MvcApplicationPartsAssemblyInfo.cache
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cache
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.RazorAssemblyInfo.cs
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.json
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.development.json
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.build.NicePageAdminTheme.props
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NicePageAdminTheme.props
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NicePageAdminTheme.props
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\bundle\NicePageAdminTheme.styles.css
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\scopedcss\projectbundle\NicePageAdminTheme.bundle.scp.css
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePage.8324B563.Up2Date
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\refint\NicePageAdminTheme.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.pdb
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\NicePageAdminTheme.genruntimeconfig.cache
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\ref\NicePageAdminTheme.dll
+D:\Quiz Management System\QM\NicePageAdminTheme\bin\Debug\net8.0\NicePageAdminTheme.staticwebassets.endpoints.json
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets\msbuild.NicePageAdminTheme.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Quiz Management System\QM\NicePageAdminTheme\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

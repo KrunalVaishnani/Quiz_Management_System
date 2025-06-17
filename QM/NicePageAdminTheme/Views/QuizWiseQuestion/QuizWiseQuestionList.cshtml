@@ -1,0 +1,108 @@
+﻿@using System.Data
+@model DataTable
+
+<div class="container mt-4">
+
+    <!-- Page Title and Breadcrumbs -->
+    <div class="pagetitle">
+        <h1>Quiz Wise Questions Table</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item">Tables</li>
+                <li class="breadcrumb-item active">Quiz Wise Questions</li>
+            </ol>
+        </nav>
+    </div>
+
+    <!-- Quiz Wise Questions Table Section -->
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <!-- Header Section -->
+                        <div class="row mb-3">
+                            <h5 class="col card-title">Quiz Wise Questions</h5>
+                            <div class="col-auto" style="padding-top:20px">
+                                <a class="btn btn-primary" asp-controller="QuizWiseQuestion" asp-action="QuizWiseQuestionAddEdit">Add Quiz Wise Question</a>
+                            </div>
+                        </div>
+
+                        <!-- Error Message Display -->
+                        <h6 class="text-danger">@TempData["ErrorMessage"]</h6>
+
+                        <!-- Table Section -->
+                        <table class="table table-striped table-hover datatable">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Quiz Name</th>
+                                    <th>Question Text</th>
+                                    @* <th>User Name</th> *@
+                                    <th>Created</th>
+                                    <th>Modified</th>
+                                    <th class="text-center">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (DataRow dataRow in Model.Rows)
+                                {
+                                    <tr>
+                                        <td>@dataRow["QuizName"]</td>
+                                        <td>@dataRow["QuestionText"]</td>
+                                        @* <td>@dataRow["UserName"]</td> *@
+                                        <td>@dataRow["Created"]</td>
+                                        <td>@dataRow["Modified"]</td>
+                                        <td class="text-center">
+                                            <!-- Edit Button -->
+                                            <a class="btn btn-outline-success btn-sm" asp-controller="QuizWiseQuestion" asp-action="QuizWiseQuestionAddEdit" asp-route-QuizWiseQuestionsID="@dataRow["QuizWiseQuestionsID"]">
+                                                <i class="bi bi-pencil-fill"></i> Edit
+                                            </a>
+                                            <!-- Delete Button -->
+                                            <button type="button" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#confirmDeleteModal" data-quizwisequestionid="@dataRow["QuizWiseQuestionsID"]">
+                                                <i class="bi bi-x"></i> Delete
+                                            </button>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!-- Delete Confirmation Modal -->
+<div class="modal fade" id="confirmDeleteModal" tabindex="-1" aria-labelledby="confirmDeleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="confirmDeleteModalLabel">Confirm Delete</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete this Quiz Wise Question?
+            </div>
+            <div class="modal-footer">
+                <form method="post" asp-controller="QuizWiseQuestion" asp-action="QuizWiseQuestionDelete">
+                    <input type="hidden" name="QuizWiseQuestionsID" id="deleteQuizWiseQuestionsID" value="" />
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript for Modal -->
+<script>
+    var confirmDeleteModal = document.getElementById('confirmDeleteModal');
+    confirmDeleteModal.addEventListener('show.bs.modal', function (event) {
+        var button = event.relatedTarget;
+        var quizWiseQuestionID = button.getAttribute('data-quizwisequestionid');
+        var modalInput = confirmDeleteModal.querySelector('#deleteQuizWiseQuestionsID');
+        modalInput.value = quizWiseQuestionID;
+    });
+</script>
